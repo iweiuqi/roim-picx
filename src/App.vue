@@ -41,7 +41,7 @@
 				</div>
 
 				<div class="w-full h-16 flex items-center justify-center text-gray-500 text-sm">
-					<a :href="#" target="_blank" class="underline">
+					<a :href="'#'" target="_blank" class="underline">
 						{{ repoName }}
 					</a>
 				</div>
